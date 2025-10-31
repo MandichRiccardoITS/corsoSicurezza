@@ -12,4 +12,4 @@ git commit -am "$nomeCommit"
 git push -f
 
 sleep 1
-# clear
+clear
