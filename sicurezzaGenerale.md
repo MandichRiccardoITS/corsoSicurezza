@@ -28,3 +28,7 @@ la protezione serve ad annullare e/o ridurre i danni.
     - viene eletta tra i dipendenti nelle piccole aziende (15 o meno dipendenti) mentre tra le sigle sindacali nelle aziende più grandi
 - **preposto**:
     persona che, in ragione delle competenze professionali e nei limiti di poteri gerarchici e funzionali adeguati alla natura dell’incarico conferitogli, sovrintende alla attività lavorativa e garantisce l’attuazione delle direttive ricevute, controllandone la corretta esecuzione da parte dei lavoratori ed esercitando un funzionale potere di iniziativa
+- **rischio**:
+    probabilità di raggiungimento del livello potenziale di danno nelle condizioni di impiego o di esposizione ad un determinato fattore o agente oppure alla loro combinazione
+- **pericolo**:
+    proprietà o qualità intrinseca di un determinato fattore avente il potenziale di causare danni
