@@ -14,5 +14,17 @@ la protezione serve ad annullare e/o ridurre i danni.
 - **datore di lavoro**:
     il soggetto titolare del rapporto di lavoro con il lavoratore o, comunque, il soggetto che, secondo il tipo e l’assetto dell’organizzazione nel cui ambito il lavoratore presta la propria attività, ha la responsabilità dell’organizzazione stessa o dell’unità produttiva in quanto esercita i poteri decisionali e di spesa. Nelle pubbliche amministrazioni di cui all’articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, per datore di lavoro si intende il dirigente al quale spettano i poteri di gestione, ovvero il funzionario non avente qualifica dirigenziale, nei soli casi in cui quest’ultimo sia preposto ad un ufficio avente autonomia gestionale, individuato dall’organo di vertice delle singole amministrazioni tenendo conto dell’ubicazione e dell’ambito funzionale degli uffici nei quali viene svolta l’attività, e dotato di autonomi poteri decisionali e di spesa. In caso di omessa individuazione, o di individuazione non conforme ai criteri sopra indicati, il datore di lavoro coincide con l’organo di vertice medesimo
     - ha dei compiti non delegabili:
-        - redigere il Documento di Valutazione dei Rischi (DVR)
-        - nominare il Responsabile del servizio di prevenzione e protezione
+        - redigere il Documento di Valutazione dei Rischi (DVR) aiutato dal MC
+        - nominare il RSPP
+- **Medico Competente (MC)**:
+    medico in possesso di uno dei titoli e dei requisiti formativi e professionali di cui all’articolo 38, che collabora, secondo quanto previsto all’articolo 29, comma 1, con il datore di lavoro ai fini della valutazione dei rischi ed è nominato dallo stesso per effettuare la sorveglianza sanitaria e per tutti gli altri compiti di cui al presente decreto
+    - fa una visita periodica ogni 2-5 anni in base a:
+        - hai meno di 50 anni e non hai nessun tipo di problema **5 anni**
+        - hai più di 50 anni e non hai nessun tipo di problema o hai meno di 50 anni ma hai un problema di salute **2 anni**
+- **Responsabile della sicurezza e della salute in azienda (RSPP)**:
+     persona in possesso delle capacità e dei requisiti professionali di cui all’articolo 32 designata dal datore di lavoro, a cui risponde, per coordinare il servizio di prevenzione e protezione dai rischi
+- **Rappresentante dei lavoratori per la sicurezza (RLS)**:
+    persona eletta o designata per rappresentare i lavoratori per quanto concerne gli aspetti della salute e della sicurezza durante il lavoro
+    - viene eletta tra i dipendenti nelle piccole aziende (15 o meno dipendenti) mentre tra le sigle sindacali nelle aziende più grandi
+- **preposto**:
+    persona che, in ragione delle competenze professionali e nei limiti di poteri gerarchici e funzionali adeguati alla natura dell’incarico conferitogli, sovrintende alla attività lavorativa e garantisce l’attuazione delle direttive ricevute, controllandone la corretta esecuzione da parte dei lavoratori ed esercitando un funzionale potere di iniziativa
