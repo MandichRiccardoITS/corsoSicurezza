@@ -11,9 +11,12 @@ alla fine di questo modulo di lezione faremo un'esame finale GRATUITO in ITS ma 
 è il regolamento europeo che regola la privacy.
 
 Differenza tra `Direttiva europea` e `Regolamento europeo`:
-    - direttiva: è un testo che obbliga i paesi membri a creare una legge nazionale che implementi la direttiva
-    - regolamento: è un testo che obbliga i paesi membri a applicare direttamente il regolamento
+    - `direttiva`: è un testo che obbliga i paesi membri a creare una legge nazionale che implementi la direttiva
+    - `regolamento`: è un testo che obbliga i paesi membri a applicare direttamente il regolamento
 
+`privacy by default` e `privacy by design`:
+    - `privacy by default`: ogni tipo di software deve essere progettato in modo che rispetti le norme sulla privacy
+    - `privacy by design`: nel utilizzo di base di un sistema deve usare meno dati possibili per raggiungere quel obiettivo
 
 ### composizione esame
 - promozione al 75% (18 giuste su 24 domande)
