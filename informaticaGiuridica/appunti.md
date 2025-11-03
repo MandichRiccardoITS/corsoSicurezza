@@ -1,4 +1,4 @@
-# informatica giuridica: lezione 1
+# informatica giuridica
 l'informatica giuridica è il diritto dell'informatica.
 
 ## cos'è la privacy
