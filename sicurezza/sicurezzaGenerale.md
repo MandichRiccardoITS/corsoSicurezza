@@ -32,3 +32,11 @@ la protezione serve ad annullare e/o ridurre i danni.
     probabilità di raggiungimento del livello potenziale di danno nelle condizioni di impiego o di esposizione ad un determinato fattore o agente oppure alla loro combinazione
 - **pericolo**:
     proprietà o qualità intrinseca di un determinato fattore avente il potenziale di causare danni
+
+# penalità per le contravvenzioni al testo unico
+## testo in rosa:
+    arresto + ammenda
+## testo in pesca:
+    sanzione penale + amministrativa
+## testo in giallo:
+    sanzione amministrativa
